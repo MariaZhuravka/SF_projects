@@ -6,7 +6,6 @@ class Rectangle:
     def get_area(self):
         return self.a * self.b
 
-
 class Square:
     def __init__(self, a):
         self.a = a
